@@ -2,6 +2,7 @@
 
 int main(){
 printf("Hello world");
+printf("scm");
 printf("this is my first commit");
 return0;
 }
