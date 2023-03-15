@@ -3,6 +3,5 @@
 int main(){
 printf("Hello world");
 printf("this is my first commit");
-printf("Hi lol");
 return0;
 }
